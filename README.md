@@ -1,9 +1,9 @@
 # Appium POC for end-to-end testing
 
 ## Resources
-[](https://reactnativetesting.io/) <br>
-https://www.youtube.com/watch?v=KN1sTvvX0mM <br>
-https://appium.io/docs/en/2.0/quickstart/
+[https://reactnativetesting.io/](https://reactnativetesting.io/) <br>
+[https://www.youtube.com/watch?v=KN1sTvvX0mM](https://www.youtube.com/watch?v=KN1sTvvX0mM) <br>
+[https://appium.io/docs/en/2.0/quickstart/](https://appium.io/docs/en/2.0/quickstart/)
 
 ## Useful commands
 
