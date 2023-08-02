@@ -14,11 +14,11 @@ appium-installer
 ```powershell
 appium-doctor
 ```
+
+### To run the tests:
 ```powershell
 appium --allow-cors
 ```
-
-### To run the tests:
 ```
 npx wdio run wdio.conf.ts
 ```
